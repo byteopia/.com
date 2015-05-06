@@ -1,11 +1,11 @@
 .blog-title {
   white-space: nowrap; }
   .blog-title a {
-    background-image: url(http://i.imgur.com/wqymtxV.png);
+    background-image: url(../images/byteopia.png);
     background-size: 100%;
     background-position: right;
-    width: 175px;
-    height: 37px;
+    width: 192px;
+    height: 41px;
     display: inline-block;
     font-size: 0px;
     vertical-align: middle; }
