@@ -1,0 +1,18 @@
+.blog-title {
+  white-space: nowrap; }
+  .blog-title a {
+    background-image: url(http://i.imgur.com/wqymtxV.png);
+    background-size: 100%;
+    background-position: right;
+    width: 175px;
+    height: 37px;
+    display: inline-block;
+    font-size: 0px; }
+
+.post-meta-toggle {
+  display: none; }
+
+.post-meta-inner {
+  display: block !important; }
+
+/*# sourceMappingURL=app.css.map */
